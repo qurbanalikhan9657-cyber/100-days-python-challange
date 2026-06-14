@@ -12,4 +12,3 @@ print("The multiple of ",a,"and", b , "is: ",int(a)*int(b))
 print("The diff of ",a,"and", b , "is: ",int(a)/int(b))
 print("The fraction of ",a,"and", b , "is: ",int(a)//int(b))
 print("The modlous of ",a,"and", b , "is: ",int(a)%int(b))
-
