@@ -17,7 +17,7 @@ print("The divison is:", a , "/", b,"is:", a / b)
 # input(num1)
 # num2 = float(input("Enter you second number:"))
 # print("The addition of ", num1 , "and" , num2 , "is", a+b)
-int = num1
-print("Enter a number:")
-input(num1)
-print("num1 is :", num1)
+
+x = input("Enter a number:")
+print("num1 is :",x)
+
