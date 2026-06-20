@@ -56,6 +56,17 @@ if(q==100):
     print("excellent")
 elif(q>=90):
      if(q<90 and q>80):
-       print("A")
-     elif(q>70):
-       print("B")
+        print("very good")
+        if(q>=80 and q>70):
+            print("good")
+            if(q>=70 and q>60):
+                print("average")
+                if(q>=60 and q>50):
+                    print("below average")
+                    if(q>=50 and q>40):
+                        print("poor")
+                        if(q>=40 and q>30):
+                            print("very poor")
+                            if(q>=30 and q>20):
+                                print("fail")
+                               
