@@ -17,7 +17,9 @@ print("your age is :",a)
 print(a>18)
 print(a<18)
 print(a==18)
-print(a!=18)
+p   print("Number is between 10 to twenty")
+else:
+   print ("This number is out of range")rint(a!=18)
 if(a>=18):
   print("you can drive")
 else:
@@ -48,9 +50,7 @@ elif(num1>0):
    if (num1<=10):
     print("number is between 10")
    elif(num1>=10 and num1<20):
-       print("Number is between 10 to twenty")
-else:
-   print ("This number is out of range")
+    
 q = int(input ("Enter your Marks in percentage"))
 if(q==100):
     print("excellent")
