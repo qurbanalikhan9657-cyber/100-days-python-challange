@@ -55,7 +55,7 @@ print("\n====================================")
 print("             FINAL MEMO             ")
 print("====================================")
 
-total_bill = 0
+total _bill = 0
 
 # Use a for loop to iterate through all stored services and add up the costs
 for item in bill_items:
